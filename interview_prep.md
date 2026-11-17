@@ -191,3 +191,4 @@ I use a structured **5-Phase Root Cause Analysis (RCA) Framework** to diagnose s
 
 * **Result:**  
   Persuaded by the empirical margin curves, the CCO halted the planned 20% storewide promotion and enacted the 10% discount cap with accessory bundling. This single data-informed intervention preserved an estimated **KES 18.5 Million in gross trading profit** for H2 2026.
+

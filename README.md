@@ -177,3 +177,4 @@ The detailed debrief and practice plan is documented at [`mock_interview_reflect
 * **GitHub:** [github.com/georgetipango88-dev](https://github.com/georgetipango88-dev)
 * **Portfolio:** [latestportfoli-george.netlify.app](https://latestportfoli-george.netlify.app/)
 * **Programme:** Power Learn Project (PLP) Africa — Data Analytics Cohort (H1 2026)
+
